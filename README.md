@@ -9,4 +9,4 @@ Need:
 * [ ] wireless connection kit for board
 * [x] mqtt server (uncheck if using solomon!)
 * [ ] ios/android apps (maybe skip)
-* [ ]web page insert code to show status of it.
+* [ ] web page insert code to show status of it.
