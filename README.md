@@ -10,3 +10,6 @@ Need:
 * [x] mqtt server (uncheck if using solomon!)
 * [ ] ios/android apps (maybe skip)
 * [ ] web page insert code to show status of it.
+
+My initial web research is [here](http://www.one-tab.com/page/xZWQ4pBBR6SXVgahuKJvZA).  
+
